@@ -1,0 +1,21 @@
+{
+    'A X': 2,
+    'A Y': 8,
+    'A Z': 3,
+    'B X': 1,
+    'B Y': 4,
+    'B Z': 9,
+    'C X': 7,
+    'C Y': 2,
+    'C Z': 6,
+}
+
+'A X': - tie - 2
+'A Y' - win - 8
+'A Z' - loss - 3
+'B X' - loss - 1
+'B Y' - tie - 4
+'B Z' - win - 9
+'C X' - win - 7
+'C Y' - loss - 2
+'C Z' - tie - 6
