@@ -35,5 +35,5 @@ const part2 = (input) => {
 // const input = fs.readFileSync('./input.example.txt', 'utf8');
 const input = fs.readFileSync('./input.txt', 'utf8');
 
-console.log(`part2: ${part1(input)}`);
+console.log(`part1: ${part1(input)}`);
 console.log(`part 2: ${part2(input)}`);
